@@ -766,7 +766,7 @@ footer > p {
     #home .section .content p {
         /* width: 100%; */
         width: 398px;
-        max-width: 600px;
+        max-width: 360px;
         font-size: 19px;
         text-align: start;
     }
